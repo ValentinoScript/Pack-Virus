@@ -2,7 +2,7 @@ Dim sURL
 Dim objShell
 Dim iNbFois
 
-iNbFois = 10
+iNbFois = Loop
 
 
 sURL = "https://www.google.ca/?hl=fr"
