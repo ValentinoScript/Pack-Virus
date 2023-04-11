@@ -1,0 +1,2 @@
+@Écho off
+Ipconfig / release
