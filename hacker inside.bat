@@ -15,7 +15,8 @@ echo aller sur https://pay.sumup.com/b2c/QK5V6FXC pour avoir la version complèt
 
 :COMMANDE
 set /p commande= entrer une commande: 
-
+IF %commande% EQU meteo echo delsole vous devez avoir achete la version complete de la console pour uttiliser cette commande
+IF %commande% EQU DDoS vous devez avoir achete la version complete de la console pour debloquer les attaque DDoS
 
 IF %commande% EQU DDoS set /p adresse= entrer une adresse ip: 
 IF %commande% EQU DDoS ping %adresse%
