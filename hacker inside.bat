@@ -1,4 +1,4 @@
-rem désactive l'affichage des commandes
+hrem désactive l'affichage des commandes
 echo off
 rem remise à blanc de l'écran
 cls
@@ -10,7 +10,7 @@ rem arret
 color 02
 echo ValentinoScript Hacker Console [5.2] free version
 echo by Valentino
-
+echo aller sur https://pay.sumup.com/b2c/QK5V6FXC pour avoir la version complète et d'autre virus
 
 
 :COMMANDE
